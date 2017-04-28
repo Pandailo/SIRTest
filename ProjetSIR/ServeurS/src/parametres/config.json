@@ -1,0 +1,16 @@
+{
+	"num_serveur": 1,
+	"port": 1201,
+	"BD_login": "ag092850",
+	"BD_mdp": "ag092850",
+	"stockage_schemas": "src/schemas",
+	"schemas_a_envoyer": "src/schemas/envoi",
+	"serveurs":
+	[
+		{
+			"num": 2,
+			"ip": "127.0.0.1",
+			"port": 1201
+		}
+	]
+}
